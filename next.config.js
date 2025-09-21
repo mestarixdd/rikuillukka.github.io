@@ -2,8 +2,7 @@
 const nextConfig = {
   output: 'export',
   reactStrictMode: true,
-  basePath: '',
-  assetPrefix: './',
+  assetPrefix: '.',
   images: {
     unoptimized: true,
   }
