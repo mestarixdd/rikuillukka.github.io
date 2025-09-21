@@ -2,7 +2,8 @@
 const nextConfig = {
   output: 'export',
   reactStrictMode: true,
-  assetPrefix: '.',
+  basePath: '/rikuillukka.github.io',
+  assetPrefix: '/rikuillukka.github.io/',
   images: {
     unoptimized: true,
   }
